@@ -1,0 +1,14 @@
+region,population,gdp_per_capita,unemployment_rate,education_level,average_salary
+Île-de-France,12278240,65000,8.5,85.2,3800
+Auvergne-Rhône-Alpes,8066593,32000,9.2,78.5,3100
+Nouvelle-Aquitaine,6042414,29000,10.1,75.8,2900
+Occitanie,5988125,28000,11.2,74.3,2850
+Hauts-de-France,6025591,27000,12.5,72.1,2750
+Grand Est,5552198,31000,9.8,76.5,3000
+Pays de la Loire,3852358,33000,8.9,79.2,3150
+Bretagne,3393937,30000,9.5,77.8,2950
+Normandie,3318257,28000,10.8,73.9,2800
+Provence-Alpes-Côte d'Azur,5116615,35000,10.3,80.1,3300
+Bourgogne-Franche-Comté,2803921,29000,11.0,74.5,2900
+Centre-Val de Loire,2570541,30000,10.5,75.2,2950
+Corse,347597,26000,13.5,70.8,2600
